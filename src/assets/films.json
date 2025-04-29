@@ -737,7 +737,7 @@
       "watchDate": "12/17/2020",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 8,
         "jacob": 8,
         "joey": null
       },
@@ -1515,7 +1515,7 @@
       "watchDate": "10/07/2021",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 7,
         "jacob": 5,
         "joey": null
       },
@@ -1668,7 +1668,7 @@
       "watchDate": "03/10/2022",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 7,
         "jacob": 6.5,
         "joey": null
       },
@@ -2128,7 +2128,7 @@
       "watchDate": "3/14/23",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 6.5,
         "jacob": 5.5,
         "joey": null
       },
@@ -2180,7 +2180,7 @@
       "watchDate": "5/10/23",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 7,
         "jacob": 6,
         "joey": null
       },
@@ -2232,7 +2232,7 @@
       "watchDate": "6/13/23",
       "clubRatings": {
         "andy": null,
-        "gabe": null,
+        "gabe": 5,
         "jacob": 7,
         "joey": null
       },
